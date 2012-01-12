@@ -13,6 +13,7 @@ all:
 	make ex11
 	make ex12
 	make ex13
+	make ex14
 
 clean:
 	rm -r *.dSYM
@@ -28,5 +29,6 @@ clean:
 	rm -f ex11
 	rm -f ex12
 	rm -f ex13
+	rm -f ex14
 
 
